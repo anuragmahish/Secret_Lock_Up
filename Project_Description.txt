@@ -1,0 +1,15 @@
+Project Name : Secret Lock Up
+
+Explanation: Cipher is a method to implement encryption and decryption of messages travelling in a network. It's used to increase the confidentiality of the messages
+
+Objective:The purpose of encryption is confidentiality—concealing the content of the message by translating it into a code
+
+Modules:
+	MainClass : for user interface
+		- using Java awt, swing, fx
+
+	RSAModule : package for implementing RSA encryption algorithm
+	AESModule : package for implementing AES encryption algorithm
+	DESModule : package for implementing DES encryption algorithm
+	ImageModule : package for implementing image encryption algorithm
+	CompareModule : package for comparing all encryption algorithms
